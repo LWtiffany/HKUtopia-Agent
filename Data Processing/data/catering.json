@@ -1,0 +1,537 @@
+[
+  {
+    "id": "dining_chong_yuet_ming_amenities_centre_restaurant",
+    "type": "dining",
+    "lang": "en",
+    "title": "Chong Yuet Ming Amenities Centre Restaurant",
+    "text": "Monday - Friday 08:00 - 17:30",
+    "metadata": {
+      "hours_adjusted": [
+        "Monday - Friday 08:00 - 17:30"
+      ],
+      "hours_regular": null,
+      "normalized_hours_adjusted": [
+        "Monday - Friday 08:00 - 17:30"
+      ],
+      "normalized_hours_regular": null,
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "adjusted_valid_from": "01/06/2025",
+      "adjusted_valid_to": "10/08/2025",
+      "location": "4/F, Chong Yuet Ming Cultural Centre",
+      "contact": "2857 5511",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/CYMACR"
+    }
+  },
+  {
+    "id": "dining_saturday",
+    "type": "dining",
+    "lang": "en",
+    "title": "Saturday",
+    "text": "10:00 - 17:30",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "10:00 - 17:30"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "10:00 - 17:30"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12"
+    }
+  },
+  {
+    "id": "dining_saturday_public_holiday",
+    "type": "dining",
+    "lang": "en",
+    "title": "Saturday & Public Holiday",
+    "text": "10:00 - 18:30",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "10:00 - 18:30"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "10:00 - 18:30"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12"
+    }
+  },
+  {
+    "id": "dining_chong_yuet_ming_amenities_centre_cafeteria_caf_330",
+    "type": "dining",
+    "lang": "en",
+    "title": "Chong Yuet Ming Amenities Centre Cafeteria - Café 330",
+    "text": "Monday - Friday 09:00 - 21:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Monday - Friday 09:00 - 21:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Monday - Friday 09:00 - 21:00"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "2/F, Chong Yuet Ming Amenities Centre",
+      "contact": "2794 3778",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/CYMACC"
+    }
+  },
+  {
+    "id": "dining_vending_hub",
+    "type": "dining",
+    "lang": "en",
+    "title": "Vending Hub",
+    "text": "Closed; Monday - Friday 07:30 - 20:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Closed",
+        "Monday - Friday 07:30 - 20:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Closed 00:00 - 00:00 (Closed)",
+        "Monday - Friday 07:30 - 20:00"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "G/F Chong Yuet Ming Amenities Centre, Main Campus",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/vendinghub"
+    }
+  },
+  {
+    "id": "dining_fong_shu_chuen_amenities_centre_restaurant",
+    "type": "dining",
+    "lang": "en",
+    "title": "Fong Shu Chuen Amenities Centre Restaurant",
+    "text": "Monday - Friday 10:00 - 20:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Monday - Friday 10:00 - 20:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Monday - Friday 10:00 - 20:00"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "2/F, Fong Shu Chuen Amenities Centre",
+      "contact": "2548 1109",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/FSCACR"
+    }
+  },
+  {
+    "id": "dining_halal_food_corner_27_kebab_house",
+    "type": "dining",
+    "lang": "en",
+    "title": "Halal Food Corner - 27 Kebab House",
+    "text": "08:30 - 18:30; Monday - Friday 08:00 - 20:30",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "08:30 - 18:30",
+        "Monday - Friday 08:00 - 20:30"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "08:30 - 18:30",
+        "Monday - Friday 08:00 - 20:30"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "1/F, Fong Shu Chuen Amenities Centre",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/halal-food-corner"
+    }
+  },
+  {
+    "id": "dining_outpost_ii_subway",
+    "type": "dining",
+    "lang": "en",
+    "title": "Outpost II - SUBWAY",
+    "text": "Closed; Monday - Friday 08:00 - 19:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Closed",
+        "Monday - Friday 08:00 - 19:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Closed 00:00 - 00:00 (Closed)",
+        "Monday - Friday 08:00 - 19:00"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "Run Run Shaw Podium",
+      "contact": "2561 9002",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/outpostII"
+    }
+  },
+  {
+    "id": "dining_catering_outpost_iii_kiosk_by_the_sandwich_club",
+    "type": "dining",
+    "lang": "en",
+    "title": "Catering Outpost III - Kiosk by The Sandwich Club",
+    "text": "Monday - Friday 08:00 - 20:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Monday - Friday 08:00 - 20:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Monday - Friday 08:00 - 20:00"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "Run Run Shaw Podium",
+      "contact": "2398 7928",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/outpostIII"
+    }
+  },
+  {
+    "id": "dining_the_coffee_academics",
+    "type": "dining",
+    "lang": "en",
+    "title": "The Coffee Academics",
+    "text": "07:30 - 20:00; Monday - Friday 07:30 - 21:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "07:30 - 20:00",
+        "Monday - Friday 07:30 - 21:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "07:30 - 20:00",
+        "Monday - Friday 07:30 - 21:00"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "G/F, Library Building (Old Wing)",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/main-lib-cafe"
+    }
+  },
+  {
+    "id": "dining_union_restaurant_hk_diners",
+    "type": "dining",
+    "lang": "en",
+    "title": "Union Restaurant - HK Diners",
+    "text": "Monday - Friday All-day",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Monday - Friday All-day"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Monday - Friday 00:00 - 23:59 (All-day)"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "4/F Haking Wong Building (Podium)",
+      "contact": "2175 7718",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/UR"
+    }
+  },
+  {
+    "id": "dining_vending_nook",
+    "type": "dining",
+    "lang": "en",
+    "title": "Vending Nook",
+    "text": "11:00 - 20:00; Monday - Friday 11:00 - 21:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "11:00 - 20:00",
+        "Monday - Friday 11:00 - 21:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "11:00 - 20:00",
+        "Monday - Friday 11:00 - 21:00"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "Shop G05, G/F Composite Building, Main Campus",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/vendingnook"
+    }
+  },
+  {
+    "id": "dining_composite_building_shop_g01_oori_hansik",
+    "type": "dining",
+    "lang": "en",
+    "title": "Composite Building Shop G01 - OORI Hansik 我家韓食府",
+    "text": "10:00 -19:00; Monday - Friday 09:00 - 20:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "10:00 -19:00",
+        "Monday - Friday 09:00 - 20:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "10:00 -19:00",
+        "Monday - Friday 09:00 - 20:00"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "Shop G. 01, G/F, Composite Building, Main Campus [",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/CompositeCafeteriaC"
+    }
+  },
+  {
+    "id": "dining_composite_building_shop_g02_tai_tai_foodtopia",
+    "type": "dining",
+    "lang": "en",
+    "title": "Composite Building Shop G02 - TAI TAI FOODTOPIA 台台果腹",
+    "text": "Monday - Friday 07:30 - 21:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Monday - Friday 07:30 - 21:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Monday - Friday 07:30 - 21:00"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "Shop G. 02, G/F, Composite Building, Main Campus",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/CompositeCafeteriaB"
+    }
+  },
+  {
+    "id": "dining_composite_building_shop_03_starbucks_coffee",
+    "type": "dining",
+    "lang": "en",
+    "title": "Composite Building Shop 03 - Starbucks Coffee",
+    "text": "08:00 - 16:00; Monday - Friday 09:00 - 19:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "08:00 - 16:00",
+        "Monday - Friday 09:00 - 19:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "08:00 - 16:00",
+        "Monday - Friday 09:00 - 19:00"
+      ],
+      "campus": "Main Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "Shop G. 03, G/F, Composite Building, Main Campus",
+      "contact": "2559 5028",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/CompositeCafeteriaA"
+    }
+  },
+  {
+    "id": "dining_centennial_campus_catering_outlet_a_oliver_s_super_sandwiches",
+    "type": "dining",
+    "lang": "en",
+    "title": "Centennial Campus Catering Outlet A - Oliver's Super Sandwiches",
+    "text": "Monday - Friday 07:30 - 20:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Monday - Friday 07:30 - 20:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Monday - Friday 07:30 - 20:00"
+      ],
+      "campus": "Centennial Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "LG/F, The Jockey Club Tower, Central Podium Centennial Campus",
+      "contact": "2549 2862",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/CCOutletA"
+    }
+  },
+  {
+    "id": "dining_alfafa_cafe",
+    "type": "dining",
+    "lang": "en",
+    "title": "alfafa cafe",
+    "text": "08:00 - 17:00; Monday - Friday 08:00 - 20:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "08:00 - 17:00",
+        "Monday - Friday 08:00 - 20:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "08:00 - 17:00",
+        "Monday - Friday 08:00 - 20:00"
+      ],
+      "campus": "Centennial Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "G/F The Jockey Club Tower, Central Podium, Centennial Campus",
+      "contact": "2546 2121",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/CCOutletB"
+    }
+  },
+  {
+    "id": "dining_gourmet_asia",
+    "type": "dining",
+    "lang": "en",
+    "title": "Gourmet Asia",
+    "text": "Monday - Friday 11:00 - 21:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Monday - Friday 11:00 - 21:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Monday - Friday 11:00 - 21:00"
+      ],
+      "campus": "Centennial Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "G/F, Run Run Shaw Tower, Centennial Campus",
+      "contact": "2175 7778",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/CCOutletC"
+    }
+  },
+  {
+    "id": "dining_bijas_vegetarian",
+    "type": "dining",
+    "lang": "en",
+    "title": "BIJAS Vegetarian (一念素食)",
+    "text": "Closed; Monday - Friday 08:00 - 19:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Closed",
+        "Monday - Friday 08:00 - 19:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Closed 00:00 - 00:00 (Closed)",
+        "Monday - Friday 08:00 - 19:00"
+      ],
+      "campus": "Centennial Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "G/F Run Run Shaw Tower, Central Podium, Centennial Campus",
+      "contact": "2964 9011",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/CCOutletD"
+    }
+  },
+  {
+    "id": "dining_grove",
+    "type": "dining",
+    "lang": "en",
+    "title": "Grove",
+    "text": "Monday - Friday 08:00 - 16:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Monday - Friday 08:00 - 16:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Monday - Friday 08:00 - 16:00"
+      ],
+      "campus": "Centennial Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "2/F Academic Building, 3 Sassoon Road",
+      "contact": "9737 3842",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/3SRCafe"
+    }
+  },
+  {
+    "id": "dining_sandwich_club_kiosk",
+    "type": "dining",
+    "lang": "en",
+    "title": "Sandwich Club Kiosk",
+    "text": "Monday - Friday 09:00 - 18:00",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Monday - Friday 09:00 - 18:00"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Monday - Friday 09:00 - 18:00"
+      ],
+      "campus": "Centennial Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "G/F, 6 Sassoon Road, Sassoon Road Campus (nearby Lee Hysan Hall)",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/6SRKiosk"
+    }
+  },
+  {
+    "id": "dining_pizza_express_kiosk",
+    "type": "dining",
+    "lang": "en",
+    "title": "Pizza Express Kiosk",
+    "text": "Monday - Friday 08:30 - 17:45",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Monday - Friday 08:30 - 17:45"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Monday - Friday 08:30 - 17:45"
+      ],
+      "campus": "Centennial Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "G/F, HKJC Building for Interdisciplinary Research, 5 Sassoon Road, Sassoon Road Campus",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/5SRKiosk"
+    }
+  },
+  {
+    "id": "dining_fan_pui_garden_catering_outpost_subway",
+    "type": "dining",
+    "lang": "en",
+    "title": "Fan Pui Garden Catering Outpost - Subway",
+    "text": "Monday - Friday 08:30 - 17:30",
+    "metadata": {
+      "hours_adjusted": null,
+      "hours_regular": [
+        "Monday - Friday 08:30 - 17:30"
+      ],
+      "normalized_hours_adjusted": null,
+      "normalized_hours_regular": [
+        "Monday - Friday 08:30 - 17:30"
+      ],
+      "campus": "Centennial Campus",
+      "source_url": "https://www.cedars.hku.hk/campuslife/catering/catering-outlets/",
+      "last_scraped": "2025-08-12",
+      "location": "Fan Pui Garden, LG/F, Laboratory Block, 21 Sassoon Road",
+      "contact": "2577 1008",
+      "detail_url": "https://www.cedars.hku.hk/campuslife/catering/FanPuiOutpost"
+    }
+  }
+]
