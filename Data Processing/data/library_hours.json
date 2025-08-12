@@ -1,0 +1,275 @@
+[
+  {
+    "id": "lib_main_library",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "Main Library",
+    "text": "8:30am - 9:00pm",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "8:30am - 9:00pm"
+      ],
+      "normalized_hours_today": [
+        "8:30am - 9:00pm"
+      ]
+    }
+  },
+  {
+    "id": "lib_media_services_co_branded_les",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "Media Services (co-branded LES)",
+    "text": "9:00am - 5:30pm",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "9:00am - 5:30pm"
+      ],
+      "normalized_hours_today": [
+        "9:00am - 5:30pm"
+      ]
+    }
+  },
+  {
+    "id": "lib_special_collections",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "Special Collections",
+    "text": "9:00am - 5:00pm",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "9:00am - 5:00pm"
+      ],
+      "normalized_hours_today": [
+        "9:00am - 5:00pm"
+      ]
+    }
+  },
+  {
+    "id": "lib_overnight_open_area_library_corner",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "Overnight Open Area (Library Corner)",
+    "text": "9:00pm - 8:00am",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "9:00pm - 8:00am"
+      ],
+      "normalized_hours_today": [
+        "9:00pm - 8:00am"
+      ]
+    }
+  },
+  {
+    "id": "lib_fung_ping_shan_library",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "Fung Ping Shan Library",
+    "text": "8:30am - 9:00pm",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "8:30am - 9:00pm"
+      ],
+      "normalized_hours_today": [
+        "8:30am - 9:00pm"
+      ]
+    }
+  },
+  {
+    "id": "lib_tin_ka_ping_education_library",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "Tin Ka Ping Education Library",
+    "text": "8:30am - 9:00pm",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "8:30am - 9:00pm"
+      ],
+      "normalized_hours_today": [
+        "8:30am - 9:00pm"
+      ]
+    }
+  },
+  {
+    "id": "lib_ko_wong_wai_ching_wendy_fine_arts_digital_library",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "Ko Wong Wai Ching Wendy Fine Arts Digital Library",
+    "text": "8:30am - 9:00pm",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "8:30am - 9:00pm"
+      ],
+      "normalized_hours_today": [
+        "8:30am - 9:00pm"
+      ]
+    }
+  },
+  {
+    "id": "lib_dental_library",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "Dental Library",
+    "text": "9:00am - 8:00pm",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "9:00am - 8:00pm"
+      ],
+      "normalized_hours_today": [
+        "9:00am - 8:00pm"
+      ]
+    }
+  },
+  {
+    "id": "lib_lui_che_woo_law_library",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "Lui Che Woo Law Library",
+    "text": "9:00am - 8:00pm",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "9:00am - 8:00pm"
+      ],
+      "normalized_hours_today": [
+        "9:00am - 8:00pm"
+      ]
+    }
+  },
+  {
+    "id": "lib_yu_chun_keung_medical_library",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "Yu Chun Keung Medical Library",
+    "text": "9:00am - 8:00pm",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "9:00am - 8:00pm"
+      ],
+      "normalized_hours_today": [
+        "9:00am - 8:00pm"
+      ]
+    }
+  },
+  {
+    "id": "lib_music_library",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "Music Library",
+    "text": "8:00am - 11:00pm",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "8:00am - 11:00pm"
+      ],
+      "normalized_hours_today": [
+        "8:00am - 11:00pm"
+      ]
+    }
+  },
+  {
+    "id": "lib_24_hour_study_room",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "24-hour Study Room",
+    "text": "8:00am - 11:00pm",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "8:00am - 11:00pm"
+      ],
+      "normalized_hours_today": [
+        "8:00am - 11:00pm"
+      ]
+    }
+  },
+  {
+    "id": "lib_library_24",
+    "type": "library_hours",
+    "lang": "en",
+    "title": "Library 24",
+    "text": "24/7",
+    "metadata": {
+      "source_url": "https://lib.hku.hk/general/hours/index.html",
+      "last_scraped": "2025-08-12",
+      "holiday_url": "https://lib.hku.hk/general/hours/holiday.html",
+      "holiday_note": "HKUL: Opening Hours Skip to main content",
+      "adverse_weather_url": "https://lib.hku.hk/general/hours/badweather.html",
+      "library24_url": "https://lib.hku.hk/library24/index.html",
+      "hours_today": [
+        "24/7"
+      ],
+      "normalized_hours_today": [
+        "00:00 - 23:59 (All-day)"
+      ]
+    }
+  }
+]
